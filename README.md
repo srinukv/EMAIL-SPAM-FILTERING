@@ -1,3 +1,11 @@
+#COMPANY:FUTURE INTERN
+
+#NAME: VENKATA SRINIVASA RAO KILLADI
+
+#DOMAIN:DATA SCIENCE
+
+#DURATION:1 MONTH
+
 # Mail-Spam-Filtering
 It uses machine learning models to predict whether the email is spam or ligitimate.
 
